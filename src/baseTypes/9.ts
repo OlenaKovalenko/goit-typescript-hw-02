@@ -20,4 +20,5 @@ const page2 = {
   status: 'close',
 }
 
+
 export {};
